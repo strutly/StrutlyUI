@@ -1,0 +1,158 @@
+/*============================================================
+
+             Welcome To StrutlyUI 
+
+    We hope that's we helped you to speed up
+     your front-end development proccess. :)
+
+Note: you can enjoy your Coding Time by 
+listening to our top 5 spotify playlist.
+
+1) Alone Again : https://open.spotify.com/playlist/37i9dQZF1DWX83CujKHHOn?si=2Sr196CpTCCDrajTBGZkWQ
+2) Life Sucks : https://open.spotify.com/playlist/37i9dQZF1DX3YSRoSdA634?si=IylJ05i4SCyj1JPpFsL42w
+3) Fresh & Chill : https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C?si=fo5hWu-uTHykYdyLshmQnQ
+4) Chill Hits : https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6?si=jE13heV3QJqUiFkCo-EuKg
+5) Mood Booster : https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0?si=-J2MccAyST2lO_qDIBaUlw
+
+============================================================*/
+
+
+/* Background Color's */
+.bg-white{
+    background-color: #FFFFFF;
+}
+.bg-silver{
+    background-color: #C0C0C0;
+}
+.bg-gray{
+    background-color: #808080;
+}
+.bg-black{
+    background-color: #000000;
+}
+.bg-red{
+    background-color: #FF0000;
+}
+.bg-maroon{
+    background-color: #800000;
+}
+.bg-yellow{
+    background-color: #FFFF00;
+}
+.bg-olive{
+    background-color: #808000;
+}
+.bg-lime{
+    background-color: #00FF00;
+}
+.bg-green{
+    background-color: #008000;
+}
+.bg-aqua{
+    background-color: #00FFFF;
+}
+.bg-teal{
+    background-color: #008080;
+}
+.bg-teal{
+    background-color: #0000FF;
+}
+.bg-navy{
+    background-color: #000080;
+}
+.bg-fuchsia{
+    background-color: #FF00FF;
+}
+.bg-purple{
+    background-color: 	#800080;
+}
+.bg-indianred{
+    background-color: #CD5C5C;
+}
+.bg-lightcoral{
+    background-color: #F08080;
+}
+.bg-salamon{
+    background-color: #FA8072;
+}
+.bg-darksalamon{
+    background-color: #E9967A;
+}
+.bg-lightsalamon{
+    background-color: #FFA07A;
+}
+.bg-crismon{
+    background-color: #DC143C;
+}
+.bg-firebrick{
+    background-color: #B22222;
+}
+.bg-darckred{
+    background-color: #8B0000;
+}
+.bg-pink{
+    background-color: #FFC0CB;
+}
+.bg-lightpink{
+    background-color: #FFB6C1;
+}
+.bg-hotpink{
+    background-color: #FF69B4;
+}
+.bg-deeppink{
+    background-color: #FF1493;
+}
+.bg-mediumvioletred{
+    background-color: #C71585;
+}
+.bg-palevioletred{
+    background-color: #DB7093;
+}
+.bg-tomato{
+    background-color: #FF6347;
+}
+.bg-orangered{
+    background-color: 	#FF4500;
+}
+.bg-coral{
+    background-color: 	#FF7F50;
+}
+.bg-darkorange{
+    background-color: 	#FF8C00;
+}
+.bg-orange{
+    background-color: 	#FFA500;
+}
+.bg-darkmode{
+    background-color: 	#2D2D2D;
+}
+.bg-gold{
+    background-color: #FFD700;
+}
+.bg-lighyellow{
+    background-color: #FFFFE0;
+}
+.bg-lemonchiffon{
+    background-color: #FFFACD;
+}
+.bg-lightgoldenrodyellow{
+    background-color: #FAFAD2;
+}
+.bg-papayawhip{
+    background-color: #FFEFD5;
+}
+.bg-moccasin{
+    background-color: #FFE4B5;
+}
+.bg-peachpuff{
+    background-color: #FFDAB9;
+}
+.bg-palegoldenrod{
+    background-color: #EEE8AA;
+}
+.bg-khaki{
+    background-color: #F0E68C;
+}
+.bg-darkkhaki{
+    background-color: #BDB76B;
+}
